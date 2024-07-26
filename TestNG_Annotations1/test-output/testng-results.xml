@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-02T16:13:47 IST" name="Suite" finished-at="2024-07-02T16:13:47 IST" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2024-07-02T16:13:47 IST" name="Test" finished-at="2024-07-02T16:13:47 IST" duration-ms="65">
+      <class name="TestNG_Annotations1.TestNG_Annotations1.All_Annotations">
+        <test-method is-config="true" signature="qwe()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="qwe" finished-at="2024-07-02T16:13:47 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qwe -->
+        <test-method is-config="true" signature="uio()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="uio" finished-at="2024-07-02T16:13:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uio -->
+        <test-method is-config="true" signature="dfg()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="dfg" finished-at="2024-07-02T16:13:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dfg -->
+        <test-method is-config="true" signature="lzx()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="lzx" finished-at="2024-07-02T16:13:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lzx -->
+        <test-method signature="n()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="n" finished-at="2024-07-02T16:13:47 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- n -->
+        <test-method is-config="true" signature="cvb()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="cvb" finished-at="2024-07-02T16:13:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cvb -->
+        <test-method is-config="true" signature="hjk()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="hjk" finished-at="2024-07-02T16:13:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hjk -->
+        <test-method is-config="true" signature="pas()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="pas" finished-at="2024-07-02T16:13:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pas -->
+        <test-method is-config="true" signature="rty()[pri:0, instance:TestNG_Annotations1.TestNG_Annotations1.All_Annotations@f0c8a99]" started-at="2024-07-02T16:13:47 IST" name="rty" finished-at="2024-07-02T16:13:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rty -->
+      </class> <!-- TestNG_Annotations1.TestNG_Annotations1.All_Annotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
